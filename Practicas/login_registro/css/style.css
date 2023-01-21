@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  /* font-family: 'Ubuntu', sans-serif */
+  background: #1B1D35;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: #b8711b;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.contenedor {
+  max-width: 500px;
+  width: 90%;
+  margin: auto;
+}
+.contenedor .titulo {
+  font-weight: 300;
+  color: #b8711b;
+  text-align: center;
+  margin: 60px 0 30px 0;
+}
+.contenedor .border {
+  border: none;
+  margin-bottom: 5px;
+  border-top: 10px solid #b8711b;
+  background: none;
+  color: none;
+}/*# sourceMappingURL=estilos.css.map */
